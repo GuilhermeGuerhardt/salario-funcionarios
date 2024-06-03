@@ -42,7 +42,7 @@ public class SalarioFunc {
                 break;
             }
             System.out.println("------------------------------");
-            scanner.nextLine(); // Limpa o buffer do teclado
+            scanner.nextLine();
         }
         medSalH = somaSalH / totalHom;
         System.out.println("\n============ RESULTADOS ============");
